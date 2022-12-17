@@ -1,2 +1,3 @@
-*.csv
+curr.csv
+df_f.csv
 /venv
